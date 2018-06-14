@@ -15,8 +15,8 @@
 /js/adapters/mootools-adapter.js
 /js/adapters/prototype-adapter.js
 /js/modules/exporting.js
-/build
-/code
+#/build
+#/code
 /tools/jsdoc/ink-docstrap
 /git-ignore-me.properties
 /highcharts.com.sublime-project
